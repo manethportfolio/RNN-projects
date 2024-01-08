@@ -25,3 +25,4 @@
 </div>
 
 ## Projects
+<p>Sentiment analysis project using BERT model</p>
